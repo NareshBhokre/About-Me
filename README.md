@@ -25,8 +25,8 @@ Highly Motivated Data Analyst with a Solid understanding of Data Analysis techni
   * Support decision–making processes across the organization.
   * Stay up to – date with the latest data analysis tools and techniques.
 
-**Pwc, Remote. Dec 2023 - Jan 2024
-**Data Analyst Intern **
+Data Analyst Intern Pwc, Remote. Dec 2023 - Jan 2024
+
 Performed Three Projects on the following given datasets:
 01. Customer Retention Analysis.
 02. Diversity and Inclusion.
