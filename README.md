@@ -10,8 +10,8 @@ Highly Motivated Data Analyst with a Solid understanding of Data Analysis techni
 * MS Office Suite
 * Google Suite
 # Inrernship Experience
-  **Meri SKILL, Noida. UP. Oct-2023 – Nov-2023**
-  **Data Analyst**
+  Meri SKILL, Noida. UP. Oct-2023 – Nov-2023**
+  Data Analyst
   Performed Two Projects on the following given datasets:
   01: "HR Analytics"
   02: "Sales Data Analysis"
