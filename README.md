@@ -14,8 +14,8 @@ Highly Motivated Data Analyst with a Solid understanding of Data Analysis techni
   Oct-2023 – Nov-2023
   
   Performed Two Projects on the following given datasets:
-  01: "HR Analytics"
-  02: "Sales Data Analysis"
+  01. HR Analytics
+  02. Sales Data Analysis
   
   * Collect, Clean, and Prepare data from various sources.
   * Analyze data using various tools and techniques.
