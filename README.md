@@ -26,6 +26,7 @@ Performed Three Projects on the following given datasets:
 01. Customer Retention Analysis.
 02. Diversity and Inclusion.
 03. Call Centre Trends Analysis.
+
 •	Developed Power BI dashboard on Customer Retention Analysis, Diversity and Inclusion, and Call Centre Trends Analysis to better understand clients and their data visualization needs.
 •	Leverage analytical problem-solving skills to examine HR data, particularly focusing on gender related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data -driven decision-making.
 
