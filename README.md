@@ -18,9 +18,9 @@ Highly Motivated Data Analyst with a Solid understanding of Data Analysis techni
   02. Sales Data Analysis
   
 •	Developed Power BI dashboard and SQL queries for diabetic patient data, enabling analysis of blood glucose levels and medication adherence for personalized care plans.
-•	Utilized SQL queries and created dashboard to analyze Sales Analysis, Diabetic Patients, and HR Analytics.
+ •	Leverage analytical problem-solving skills to examine HR data, particularly focusing on gender related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data -driven decision-making.
 
-Data Analyst Intern Pwc, Remote. Dec 2023 - Jan 2024
+Power BI Intern Pwc, Remote. Dec 2023 - Jan 2024
 
 Performed Three Projects on the following given datasets:
 01. Customer Retention Analysis.
