@@ -3,7 +3,7 @@ Highly Motivated Data Analyst with a Solid understanding of Data Analysis techni
 # Skill
 * Data Analysis: Exploratory Data Analysis, Data Cleansing, Data Visualization
 * Data Manipulation: Power Query Editor, Power Pivot
-* SQL
+* SQL, Excel (Advanced), Power BI
 # Tool
 * Microsoft Power BI
 * MS Excel (Advanced Excel)
